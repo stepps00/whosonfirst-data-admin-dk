@@ -9,7 +9,6 @@
     "geom:bbox":"12.5024414062,55.6961638326,12.5326538086,55.7178288015",
     "geom:latitude":55.708168,
     "geom:longitude":12.518149,
-    "gn:id":"",
     "iso:country":"DK",
     "lbl:latitude":55.706419,
     "lbl:longitude":12.52391,
@@ -97,10 +96,7 @@
         }
     ],
     "wof:id":85907905,
-    "wof:lang":[
-        "dan"
-    ],
-    "wof:lastmodified":1582331833,
+    "wof:lastmodified":1603251079,
     "wof:name":"K\u00f8benhavn NV",
     "wof:parent_id":101749159,
     "wof:placetype":"neighbourhood",

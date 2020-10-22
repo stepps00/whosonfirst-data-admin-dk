@@ -9,7 +9,6 @@
     "geom:bbox":"12.601609,56.037312,12.601609,56.037312",
     "geom:latitude":56.037312,
     "geom:longitude":12.601609,
-    "gn:id":"",
     "iso:country":"DK",
     "lbl:bbox":"12.596609,56.032312,12.606609,56.042312",
     "lbl:latitude":56.037312,
@@ -249,10 +248,7 @@
         }
     ],
     "wof:id":85898793,
-    "wof:lang":[
-        "dan"
-    ],
-    "wof:lastmodified":1582331842,
+    "wof:lastmodified":1603251082,
     "wof:name":"Kronborg",
     "wof:parent_id":101818397,
     "wof:placetype":"neighbourhood",

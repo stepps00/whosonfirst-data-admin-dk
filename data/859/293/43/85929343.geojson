@@ -9,7 +9,6 @@
     "geom:bbox":"12.5459343161,55.6868705153,12.5632055088,55.6977117768",
     "geom:latitude":55.691523,
     "geom:longitude":12.555813,
-    "gn:id":"",
     "iso:country":"DK",
     "lbl:latitude":55.690642,
     "lbl:longitude":12.555679,
@@ -99,10 +98,7 @@
         }
     ],
     "wof:id":85929343,
-    "wof:lang":[
-        "dan"
-    ],
-    "wof:lastmodified":1582331834,
+    "wof:lastmodified":1603251080,
     "wof:name":"Indre N\u00f8rrebro",
     "wof:parent_id":101749159,
     "wof:placetype":"neighbourhood",

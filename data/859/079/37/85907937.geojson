@@ -9,7 +9,6 @@
     "geom:bbox":"10.495404,55.342108,10.495404,55.342108",
     "geom:latitude":55.342108,
     "geom:longitude":10.495404,
-    "gn:id":"",
     "iso:country":"DK",
     "lbl:bbox":"10.490404,55.337108,10.500404,55.347108",
     "lbl:latitude":55.342108,
@@ -95,10 +94,7 @@
         }
     ],
     "wof:id":85907937,
-    "wof:lang":[
-        "dan"
-    ],
-    "wof:lastmodified":1582331834,
+    "wof:lastmodified":1603251079,
     "wof:name":"Odense SO",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

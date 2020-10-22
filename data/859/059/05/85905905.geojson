@@ -9,7 +9,6 @@
     "geom:bbox":"12.5463867188,55.6480942626,12.5738525391,55.6651931844",
     "geom:latitude":55.656862,
     "geom:longitude":12.560714,
-    "gn:id":"",
     "iso:country":"DK",
     "lbl:latitude":55.658342,
     "lbl:longitude":12.561841,
@@ -102,10 +101,7 @@
         }
     ],
     "wof:id":85905905,
-    "wof:lang":[
-        "dan"
-    ],
-    "wof:lastmodified":1582331835,
+    "wof:lastmodified":1603251080,
     "wof:name":"Fisketorvet",
     "wof:parent_id":101749159,
     "wof:placetype":"neighbourhood",

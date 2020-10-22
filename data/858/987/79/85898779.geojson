@@ -9,7 +9,6 @@
     "geom:bbox":"12.304161,55.934977,12.304161,55.934977",
     "geom:latitude":55.934977,
     "geom:longitude":12.304161,
-    "gn:id":"",
     "iso:country":"DK",
     "lbl:bbox":"12.299161,55.929977,12.309161,55.939977",
     "lbl:latitude":55.934977,
@@ -98,10 +97,7 @@
         }
     ],
     "wof:id":85898779,
-    "wof:lang":[
-        "dan"
-    ],
-    "wof:lastmodified":1582331842,
+    "wof:lastmodified":1603251082,
     "wof:name":"Frederiksborg",
     "wof:parent_id":101840813,
     "wof:placetype":"neighbourhood",

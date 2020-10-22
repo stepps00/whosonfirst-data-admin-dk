@@ -9,7 +9,6 @@
     "geom:bbox":"12.5928102839,55.6818429885,12.5958251953,55.6835850007",
     "geom:latitude":55.682701,
     "geom:longitude":12.594281,
-    "gn:id":"",
     "iso:country":"DK",
     "lbl:latitude":55.682642,
     "lbl:longitude":12.594044,
@@ -195,10 +194,7 @@
         }
     ],
     "wof:id":85905811,
-    "wof:lang":[
-        "dan"
-    ],
-    "wof:lastmodified":1582331835,
+    "wof:lastmodified":1603251081,
     "wof:name":"Amalienborg",
     "wof:parent_id":101749159,
     "wof:placetype":"neighbourhood",

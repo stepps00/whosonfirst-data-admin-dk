@@ -9,7 +9,6 @@
     "geom:bbox":"12.5971984863,55.682230107,12.5999450684,55.6837785529",
     "geom:latitude":55.683109,
     "geom:longitude":12.598387,
-    "gn:id":"",
     "iso:country":"DK",
     "lbl:latitude":55.682933,
     "lbl:longitude":12.598276,
@@ -90,10 +89,7 @@
         }
     ],
     "wof:id":85898791,
-    "wof:lang":[
-        "dan"
-    ],
-    "wof:lastmodified":1582331842,
+    "wof:lastmodified":1603251082,
     "wof:name":"Inderhavn",
     "wof:parent_id":101749159,
     "wof:placetype":"neighbourhood",

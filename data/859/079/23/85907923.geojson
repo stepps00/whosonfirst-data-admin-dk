@@ -9,7 +9,6 @@
     "geom:bbox":"10.138414,56.16617,10.138414,56.16617",
     "geom:latitude":56.16617,
     "geom:longitude":10.138414,
-    "gn:id":"",
     "iso:country":"DK",
     "lbl:bbox":"10.133414,56.16117,10.143414,56.17117",
     "lbl:latitude":56.16617,
@@ -101,10 +100,7 @@
         }
     ],
     "wof:id":85907923,
-    "wof:lang":[
-        "dan"
-    ],
-    "wof:lastmodified":1582331834,
+    "wof:lastmodified":1603251079,
     "wof:name":"\u00c5rhus V",
     "wof:parent_id":101749163,
     "wof:placetype":"neighbourhood",

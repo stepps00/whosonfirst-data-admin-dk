@@ -9,7 +9,6 @@
     "geom:bbox":"12.568359375,55.6527979719,12.5903320312,55.6675446571",
     "geom:latitude":55.660252,
     "geom:longitude":12.577973,
-    "gn:id":"",
     "gn:latitude":55.66559,
     "gn:longitude":12.59923,
     "iso:country":"DK",
@@ -111,10 +110,7 @@
         }
     ],
     "wof:id":1175611413,
-    "wof:lang":[
-        "dan"
-    ],
-    "wof:lastmodified":1566721745,
+    "wof:lastmodified":1603251090,
     "wof:name":"Amagerbro",
     "wof:parent_id":101749159,
     "wof:placetype":"neighbourhood",

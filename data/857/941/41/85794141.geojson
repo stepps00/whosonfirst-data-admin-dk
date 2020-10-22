@@ -62,8 +62,8 @@
     "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191581,
-        85633121,
         1159297923,
+        85633121,
         101749155,
         85682575
     ],
@@ -92,10 +92,7 @@
         }
     ],
     "wof:id":85794141,
-    "wof:lang":[
-        "dan"
-    ],
-    "wof:lastmodified":1588709968,
+    "wof:lastmodified":1603251081,
     "wof:name":"Boldesager",
     "wof:parent_id":101749155,
     "wof:placetype":"neighbourhood",

@@ -9,7 +9,6 @@
     "geom:bbox":"12.5792608642,55.6773908282,12.5800323486,55.6777779928",
     "geom:latitude":55.677548,
     "geom:longitude":12.579726,
-    "gn:id":"",
     "iso:country":"DK",
     "lbl:latitude":55.677588,
     "lbl:longitude":12.57982,
@@ -94,10 +93,7 @@
         }
     ],
     "wof:id":85905995,
-    "wof:lang":[
-        "dan"
-    ],
-    "wof:lastmodified":1582331835,
+    "wof:lastmodified":1603251080,
     "wof:name":"Klosterg\u00e5rden",
     "wof:parent_id":101749159,
     "wof:placetype":"neighbourhood",

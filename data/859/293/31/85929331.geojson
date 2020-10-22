@@ -9,7 +9,6 @@
     "geom:bbox":"12.5013835944,55.5978326697,12.5871312779,55.6512483556",
     "geom:latitude":55.623023,
     "geom:longitude":12.549735,
-    "gn:id":"",
     "iso:country":"DK",
     "lbl:latitude":55.614654,
     "lbl:longitude":12.549336,
@@ -90,10 +89,7 @@
         }
     ],
     "wof:id":85929331,
-    "wof:lang":[
-        "dan"
-    ],
-    "wof:lastmodified":1566721554,
+    "wof:lastmodified":1603251080,
     "wof:name":"Vestamager",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

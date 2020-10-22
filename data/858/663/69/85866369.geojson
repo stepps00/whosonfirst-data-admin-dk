@@ -9,7 +9,6 @@
     "geom:bbox":"8.410927,55.489134,8.410927,55.489134",
     "geom:latitude":55.489134,
     "geom:longitude":8.410927,
-    "gn:id":"",
     "iso:country":"DK",
     "lbl:bbox":"8.405927,55.484134,8.415927,55.494134",
     "lbl:latitude":55.489134,
@@ -94,10 +93,7 @@
         }
     ],
     "wof:id":85866369,
-    "wof:lang":[
-        "dan"
-    ],
-    "wof:lastmodified":1582331842,
+    "wof:lastmodified":1603251082,
     "wof:name":"Esbjerg V",
     "wof:parent_id":101749155,
     "wof:placetype":"neighbourhood",

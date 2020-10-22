@@ -9,7 +9,6 @@
     "geom:bbox":"12.5791194794,55.6810687356,12.5814056396,55.6826172254",
     "geom:latitude":55.681915,
     "geom:longitude":12.580295,
-    "gn:id":"",
     "iso:country":"DK",
     "lbl:latitude":55.677945,
     "lbl:longitude":12.572076,
@@ -97,10 +96,7 @@
         }
     ],
     "wof:id":85907897,
-    "wof:lang":[
-        "dan"
-    ],
-    "wof:lastmodified":1582331834,
+    "wof:lastmodified":1603251079,
     "wof:name":"K\u00f8benhavn K",
     "wof:parent_id":101749159,
     "wof:placetype":"neighbourhood",

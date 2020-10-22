@@ -9,7 +9,6 @@
     "geom:bbox":"12.5800323486,55.6760357218,12.5822054049,55.6773477073",
     "geom:latitude":55.676621,
     "geom:longitude":12.58111,
-    "gn:id":"",
     "iso:country":"DK",
     "lbl:latitude":55.676583,
     "lbl:longitude":12.581179,
@@ -85,10 +84,7 @@
         }
     ],
     "wof:id":85905919,
-    "wof:lang":[
-        "dan"
-    ],
-    "wof:lastmodified":1582331835,
+    "wof:lastmodified":1603251080,
     "wof:name":"Gammel Stand",
     "wof:parent_id":101749159,
     "wof:placetype":"neighbourhood",

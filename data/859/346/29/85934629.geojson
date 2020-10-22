@@ -9,7 +9,6 @@
     "geom:bbox":"10.045745,56.468617,10.045745,56.468617",
     "geom:latitude":56.468617,
     "geom:longitude":10.045745,
-    "gn:id":"",
     "iso:country":"DK",
     "lbl:bbox":"10.040745,56.463617,10.050745,56.473617",
     "lbl:latitude":56.468617,
@@ -70,8 +69,8 @@
     "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191581,
-        85633121,
         1159297903,
+        85633121,
         101749161,
         85682597
     ],
@@ -97,10 +96,7 @@
         }
     ],
     "wof:id":85934629,
-    "wof:lang":[
-        "dan"
-    ],
-    "wof:lastmodified":1588709971,
+    "wof:lastmodified":1603251080,
     "wof:name":"Randers NO",
     "wof:parent_id":101749161,
     "wof:placetype":"neighbourhood",

@@ -9,7 +9,6 @@
     "geom:bbox":"12.5759124756,55.6746735542,12.5773988887,55.6754549471",
     "geom:latitude":55.675058,
     "geom:longitude":12.576695,
-    "gn:id":"",
     "iso:country":"DK",
     "lbl:latitude":55.675043,
     "lbl:longitude":12.576559,
@@ -85,10 +84,7 @@
         }
     ],
     "wof:id":85906239,
-    "wof:lang":[
-        "dan"
-    ],
-    "wof:lastmodified":1582331834,
+    "wof:lastmodified":1603251079,
     "wof:name":"Vandkusten",
     "wof:parent_id":101749159,
     "wof:placetype":"neighbourhood",

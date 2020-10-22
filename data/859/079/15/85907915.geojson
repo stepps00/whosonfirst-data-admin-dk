@@ -9,7 +9,6 @@
     "geom:bbox":"9.947614,57.025212,9.947614,57.025212",
     "geom:latitude":57.025212,
     "geom:longitude":9.947614,
-    "gn:id":"",
     "iso:country":"DK",
     "lbl:bbox":"9.942614,57.020212,9.952614,57.030212",
     "lbl:latitude":57.025212,
@@ -76,8 +75,8 @@
     "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191581,
-        85633121,
         1159297743,
+        85633121,
         101749169,
         85682593
     ],
@@ -103,10 +102,7 @@
         }
     ],
     "wof:id":85907915,
-    "wof:lang":[
-        "dan"
-    ],
-    "wof:lastmodified":1588709970,
+    "wof:lastmodified":1603251079,
     "wof:name":"Aalborg SO",
     "wof:parent_id":101749169,
     "wof:placetype":"neighbourhood",

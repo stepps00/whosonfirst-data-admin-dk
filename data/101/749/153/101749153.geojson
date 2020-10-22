@@ -361,8 +361,8 @@
     "wd:wordcount":2799,
     "wof:belongsto":[
         102191581,
-        85633121,
         1159297913,
+        85633121,
         85682575
     ],
     "wof:breaches":[],
@@ -388,10 +388,7 @@
         }
     ],
     "wof:id":101749153,
-    "wof:lang":[
-        "dan"
-    ],
-    "wof:lastmodified":1588709968,
+    "wof:lastmodified":1603251108,
     "wof:name":"Vejle",
     "wof:parent_id":1159297913,
     "wof:placetype":"locality",

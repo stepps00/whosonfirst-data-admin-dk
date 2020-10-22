@@ -9,7 +9,6 @@
     "geom:bbox":"12.5944519043,55.6825743521,12.5974247055,55.6848537057",
     "geom:latitude":55.683715,
     "geom:longitude":12.595929,
-    "gn:id":"",
     "iso:country":"DK",
     "lbl:latitude":55.683582,
     "lbl:longitude":12.595396,
@@ -85,10 +84,7 @@
         }
     ],
     "wof:id":85898785,
-    "wof:lang":[
-        "dan"
-    ],
-    "wof:lastmodified":1582331843,
+    "wof:lastmodified":1603251082,
     "wof:name":"Havnen",
     "wof:parent_id":101749159,
     "wof:placetype":"neighbourhood",

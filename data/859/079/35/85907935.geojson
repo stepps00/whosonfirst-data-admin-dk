@@ -9,7 +9,6 @@
     "geom:bbox":"10.274906,55.425398,10.274906,55.425398",
     "geom:latitude":55.425398,
     "geom:longitude":10.274906,
-    "gn:id":"",
     "iso:country":"DK",
     "lbl:bbox":"10.269906,55.420398,10.279906,55.430398",
     "lbl:latitude":55.425398,
@@ -67,8 +66,8 @@
     "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191581,
-        85633121,
         1159297847,
+        85633121,
         101749151,
         85682575
     ],
@@ -94,10 +93,7 @@
         }
     ],
     "wof:id":85907935,
-    "wof:lang":[
-        "dan"
-    ],
-    "wof:lastmodified":1588709970,
+    "wof:lastmodified":1603251079,
     "wof:name":"Odense NV",
     "wof:parent_id":101749151,
     "wof:placetype":"neighbourhood",

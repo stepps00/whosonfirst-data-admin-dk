@@ -60,8 +60,8 @@
     "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191581,
-        85633121,
         1159297759,
+        85633121,
         101818223,
         85682575
     ],
@@ -88,10 +88,7 @@
         }
     ],
     "wof:id":85898801,
-    "wof:lang":[
-        "dan"
-    ],
-    "wof:lastmodified":1588709969,
+    "wof:lastmodified":1603251082,
     "wof:name":"Nyborg Strand",
     "wof:parent_id":101818223,
     "wof:placetype":"neighbourhood",

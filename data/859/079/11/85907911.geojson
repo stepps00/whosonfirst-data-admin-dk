@@ -9,7 +9,6 @@
     "geom:bbox":"9.985856,57.045593,9.985856,57.045593",
     "geom:latitude":57.045593,
     "geom:longitude":9.985856,
-    "gn:id":"",
     "iso:country":"DK",
     "lbl:bbox":"9.980856,57.040593,9.990856,57.050593",
     "lbl:latitude":57.045593,
@@ -93,10 +92,7 @@
         }
     ],
     "wof:id":85907911,
-    "wof:lang":[
-        "dan"
-    ],
-    "wof:lastmodified":1582331833,
+    "wof:lastmodified":1603251079,
     "wof:name":"Aalborg O",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

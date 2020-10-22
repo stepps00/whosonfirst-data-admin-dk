@@ -804,8 +804,8 @@
     "wd:wordcount":15928,
     "wof:belongsto":[
         102191581,
-        85633121,
         1159297727,
+        85633121,
         85682581
     ],
     "wof:breaches":[],
@@ -836,10 +836,7 @@
         }
     ],
     "wof:id":101749159,
-    "wof:lang":[
-        "dan"
-    ],
-    "wof:lastmodified":1587428785,
+    "wof:lastmodified":1603251108,
     "wof:megacity":1,
     "wof:name":"Copenhagen",
     "wof:parent_id":1159297727,

@@ -9,7 +9,6 @@
     "geom:bbox":"12.5189208984,55.6295460228,12.5546264648,55.655897189",
     "geom:latitude":55.639896,
     "geom:longitude":12.535808,
-    "gn:id":"",
     "iso:country":"DK",
     "lbl:latitude":55.650067,
     "lbl:longitude":12.547583,
@@ -98,10 +97,7 @@
         }
     ],
     "wof:id":85929325,
-    "wof:lang":[
-        "dan"
-    ],
-    "wof:lastmodified":1582331834,
+    "wof:lastmodified":1603251080,
     "wof:name":"Kongens Enghave",
     "wof:parent_id":101749159,
     "wof:placetype":"neighbourhood",

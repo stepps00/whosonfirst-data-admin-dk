@@ -9,7 +9,6 @@
     "geom:bbox":"12.5235093046,55.6930488032,12.5491333008,55.7062530913",
     "geom:latitude":55.698843,
     "geom:longitude":12.536359,
-    "gn:id":"",
     "iso:country":"DK",
     "lbl:latitude":55.699496,
     "lbl:longitude":12.538932,
@@ -99,10 +98,7 @@
         }
     ],
     "wof:id":85929321,
-    "wof:lang":[
-        "dan"
-    ],
-    "wof:lastmodified":1582331834,
+    "wof:lastmodified":1603251080,
     "wof:name":"Ydre N\u00f8rrebro",
     "wof:parent_id":101749159,
     "wof:placetype":"neighbourhood",

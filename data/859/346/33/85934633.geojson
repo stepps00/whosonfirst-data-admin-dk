@@ -9,7 +9,6 @@
     "geom:bbox":"10.020972,56.47175,10.020972,56.47175",
     "geom:latitude":56.47175,
     "geom:longitude":10.020972,
-    "gn:id":"",
     "iso:country":"DK",
     "lbl:bbox":"10.015972,56.46675,10.025972,56.47675",
     "lbl:latitude":56.47175,
@@ -67,8 +66,8 @@
     "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191581,
-        85633121,
         1159297903,
+        85633121,
         101749161,
         85682597
     ],
@@ -94,10 +93,7 @@
         }
     ],
     "wof:id":85934633,
-    "wof:lang":[
-        "dan"
-    ],
-    "wof:lastmodified":1588709971,
+    "wof:lastmodified":1603251080,
     "wof:name":"Randers NV",
     "wof:parent_id":101749161,
     "wof:placetype":"neighbourhood",

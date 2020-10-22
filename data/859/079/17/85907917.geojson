@@ -9,7 +9,6 @@
     "geom:bbox":"9.906393,57.041527,9.906393,57.041527",
     "geom:latitude":57.041527,
     "geom:longitude":9.906393,
-    "gn:id":"",
     "iso:country":"DK",
     "lbl:bbox":"9.901393,57.036527,9.911393,57.046527",
     "lbl:latitude":57.041527,
@@ -94,10 +93,7 @@
         }
     ],
     "wof:id":85907917,
-    "wof:lang":[
-        "dan"
-    ],
-    "wof:lastmodified":1582331833,
+    "wof:lastmodified":1603251079,
     "wof:name":"Aalborg SV",
     "wof:parent_id":101749169,
     "wof:placetype":"neighbourhood",

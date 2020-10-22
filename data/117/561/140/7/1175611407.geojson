@@ -203,6 +203,9 @@
         "wk:page":"Slangerup"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"abb7c16700b0e76c258472678b496bc1",
     "wof:hierarchy":[
         {
@@ -214,7 +217,7 @@
         }
     ],
     "wof:id":1175611407,
-    "wof:lastmodified":1566721745,
+    "wof:lastmodified":1603251090,
     "wof:name":"Slangerup",
     "wof:parent_id":1159297729,
     "wof:placetype":"locality",

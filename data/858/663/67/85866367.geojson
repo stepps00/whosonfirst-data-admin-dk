@@ -9,7 +9,6 @@
     "geom:bbox":"8.457905,55.47176,8.457905,55.47176",
     "geom:latitude":55.47176,
     "geom:longitude":8.457905,
-    "gn:id":"",
     "iso:country":"DK",
     "lbl:bbox":"8.452905,55.46676,8.462905,55.47676",
     "lbl:latitude":55.47176,
@@ -73,8 +72,8 @@
     "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191581,
-        85633121,
         1159297923,
+        85633121,
         101749155,
         85682575
     ],
@@ -100,10 +99,7 @@
         }
     ],
     "wof:id":85866367,
-    "wof:lang":[
-        "dan"
-    ],
-    "wof:lastmodified":1588709969,
+    "wof:lastmodified":1603251082,
     "wof:name":"Esbjerg O",
     "wof:parent_id":101749155,
     "wof:placetype":"neighbourhood",

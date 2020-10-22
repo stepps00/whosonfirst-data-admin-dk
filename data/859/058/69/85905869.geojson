@@ -9,7 +9,6 @@
     "geom:bbox":"12.5807189941,55.6744822944,12.5834655762,55.6756485401",
     "geom:latitude":55.67499,
     "geom:longitude":12.582092,
-    "gn:id":"",
     "iso:country":"DK",
     "lbl:latitude":55.67496,
     "lbl:longitude":12.581896,
@@ -85,10 +84,7 @@
         }
     ],
     "wof:id":85905869,
-    "wof:lang":[
-        "dan"
-    ],
-    "wof:lastmodified":1582331835,
+    "wof:lastmodified":1603251081,
     "wof:name":"Cristiansborg",
     "wof:parent_id":101749159,
     "wof:placetype":"neighbourhood",

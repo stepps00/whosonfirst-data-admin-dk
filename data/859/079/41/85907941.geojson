@@ -9,7 +9,6 @@
     "geom:bbox":"10.339032,55.404036,10.339032,55.404036",
     "geom:latitude":55.404036,
     "geom:longitude":10.339032,
-    "gn:id":"",
     "iso:country":"DK",
     "lbl:bbox":"10.334032,55.399036,10.344032,55.409036",
     "lbl:latitude":55.404036,
@@ -96,10 +95,7 @@
         }
     ],
     "wof:id":85907941,
-    "wof:lang":[
-        "dan"
-    ],
-    "wof:lastmodified":1582331834,
+    "wof:lastmodified":1603251079,
     "wof:name":"Odense V",
     "wof:parent_id":101749151,
     "wof:placetype":"neighbourhood",

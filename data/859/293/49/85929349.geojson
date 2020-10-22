@@ -9,7 +9,6 @@
     "geom:bbox":"12.566986084,55.6946159326,12.6204465495,55.7069977726",
     "geom:latitude":55.701325,
     "geom:longitude":12.596084,
-    "gn:id":"",
     "iso:country":"DK",
     "lbl:latitude":55.700346,
     "lbl:longitude":12.587459,
@@ -99,10 +98,7 @@
         }
     ],
     "wof:id":85929349,
-    "wof:lang":[
-        "dan"
-    ],
-    "wof:lastmodified":1582331834,
+    "wof:lastmodified":1603251080,
     "wof:name":"Indre \u00d8sterbro",
     "wof:parent_id":101749159,
     "wof:placetype":"neighbourhood",
